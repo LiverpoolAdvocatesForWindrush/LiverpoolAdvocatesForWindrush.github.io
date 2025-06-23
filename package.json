@@ -2,7 +2,7 @@
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://liverpooladvocatesforwindrush.github.io/LiverpoolAdvocatesForWindrush.github.io",
+  "homepage": "https://liverpooladvocatesforwindrush.github.io",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
