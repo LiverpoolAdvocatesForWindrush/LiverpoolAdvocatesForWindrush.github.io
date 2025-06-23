@@ -34,7 +34,7 @@ export const Home = () => {
               to="/quiz"
               className="inline-flex items-center px-6 py-3 bg-yellow-500 text-black font-semibold rounded-md hover:bg-yellow-400 transition-colors"
             >
-              Start Your Assessment
+              Start Your Assessment: Test text
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>
           </div>
